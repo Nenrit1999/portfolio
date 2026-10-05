@@ -1,0 +1,13 @@
+Add your photos to this folder using EXACTLY these file names.
+Until a photo is added, the site shows an elegant placeholder in its place.
+
+  portrait.jpg            Your main portrait (portrait orientation, about 1200 x 1600 px)
+  impact-dignity.jpg      Story 1 image. Use something quiet and non-identifying
+                          (hands, a doorway, soft light). Never a photo of the woman.
+  impact-community.jpg    Story 2 image. Same guidance: protect her and her child.
+  peace-bridges-jos.jpg   Peace Bridges Jos card (landscape, about 1600 x 1000 px)
+  tachyon-farms.jpg       Tachyon Farms greenhouse (landscape, about 1600 x 1000 px)
+  og-image.jpg            Preview image for LinkedIn/WhatsApp shares (1200 x 630 px)
+
+Tip: compress photos at https://squoosh.app before uploading (aim for under 300 KB each).
+File names are case-sensitive on Render: portrait.jpg is not the same as Portrait.JPG.

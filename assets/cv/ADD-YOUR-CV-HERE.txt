@@ -1,0 +1,5 @@
+Upload your CV to this folder named exactly:
+
+  Nenrit-Angel-Lambert-CV.pdf
+
+Every "Download CV" button on the site already points to this file.

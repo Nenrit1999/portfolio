@@ -1,0 +1,14 @@
+# Render Blueprint — lets Render set up the site automatically.
+services:
+  - type: web
+    name: nenrit-angel-lambert
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /assets/*
+        name: Cache-Control
+        value: public, max-age=604800
